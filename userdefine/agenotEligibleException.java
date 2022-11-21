@@ -8,6 +8,9 @@ public class agenotEligibleException extends Exception {
 
 	}
 	
-	
+	private void m2() {
+	System.out.println("m2");
+
+	}
 
 }
