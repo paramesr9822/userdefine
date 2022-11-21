@@ -7,5 +7,10 @@ public class agenotEligibleException extends Exception {
 	return msg;
 
 	}
+	
+	private void m2() {
+	System.out.println("m2");
+
+	}
 
 }
